@@ -2,8 +2,8 @@
 
 
 - 🎓 I’m currently studying informatics at NTNU Trondheim
-- 👀 I’m interested in web development, testing and cyber security
-- 🌱 I’m currently learning about ontologies
+- 👀 I’m interested in web development and interaction design
+- 🌱 I’m currently learning about game development
 - 📫 Message me on [LinkedIn](https://www.linkedin.com/in/theakarinfladby/)!
 
 <!--
