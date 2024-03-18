@@ -2,7 +2,7 @@
 
 
 - 🎓 I’m currently studying informatics at NTNU Trondheim
-- 👀 I’m interested in web development, interaction design and game development
+- 👀 I’m interested in web development, interaction design and green code
 - 📫 Message me on [LinkedIn](https://www.linkedin.com/in/theakarinfladby/)!
 
 <!--
