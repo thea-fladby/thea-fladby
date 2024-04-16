@@ -3,8 +3,9 @@
 
 - 🎓 I’m currently studying informatics at NTNU Trondheim
 - 👀 I’m interested in web development, interaction design and green code
-- 📫 Message me on [LinkedIn](https://www.linkedin.com/in/theakarinfladby/)!
-
+- 📫 Message me on [LinkedIn](https://www.linkedin.com/in/theakarinfladby/)
+- 🕹️ Also, check out [this game](https://theafladby.itch.io/hvor-er-fu) me and a few others made!
+  
 <!--
 **thea-fladby/thea-fladby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
